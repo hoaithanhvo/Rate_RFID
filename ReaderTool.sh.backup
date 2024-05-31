@@ -1,0 +1,8 @@
+#!/bin/bash
+
+echo "Launching NIDEC RFID Sensing Gate..."
+
+cd /home/ru224/Production_AssignLocation/dist/Main/
+./Main
+
+exit 0
